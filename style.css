@@ -1,0 +1,47 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+*
+{
+    background-color: azure;
+}
+.main
+{
+    display: inline;
+    width:1000px;
+    height: 500px;
+    background-color: blue;
+   margin-left: 200px;
+   margin-top: 166px;
+   
+}
+.header1
+{
+    width: 750px;
+    height: 250px;
+   
+}
+.header2
+{
+    width: 250px;
+    height: 500px;
+   
+}
+.one,.four
+{
+width:563px ;
+height: 125px;
+flex:1;
+display: inline;
+}
+.two,.three
+{
+width:187;
+height: 125;
+display: inline;
+}
+
+
